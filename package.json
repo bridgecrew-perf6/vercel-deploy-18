@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/gauravshres/vercel-deploy#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "nunjucks": "^3.2.3",
+    "sfdx-cli": "^7.137.1",
+    "shelljs": "^0.8.5"
   }
 }
